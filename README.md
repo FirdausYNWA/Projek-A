@@ -2,6 +2,6 @@
 
 Projek MInt Page
 
-### Images of The NFT Collection Website:
+### Images of Tent Projeck NFT:
 
 ![HOME](https://github.com/FirdausYNWA/Projek-A/blob/main/tesimage.PNG)
